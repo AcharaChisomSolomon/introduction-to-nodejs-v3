@@ -2,7 +2,6 @@
   "name": "introduction-to-nodejs-v3",
   "version": "1.0.0",
   "description": "",
-  "types": "module",
   "main": "index.js",
   "bin": {
     "note": "./index.js"
@@ -13,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "yargs": "^18.0.0"
   }
